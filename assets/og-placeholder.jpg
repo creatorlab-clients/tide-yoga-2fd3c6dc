@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#9C7B72" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#C4AA7D" stop-opacity="0.1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#F8F4EF"/>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="600" y="295" font-family="Georgia,serif" font-size="42" font-style="italic" fill="#9C7B72" text-anchor="middle" dominant-baseline="middle">Bloom Atelier</text>
+  <text x="600" y="350" font-family="Georgia,serif" font-size="18" fill="#9A9087" text-anchor="middle">Flores que contam a sua história.</text>
+  <text x="600" y="395" font-family="Georgia,serif" font-size="13" fill="#C4AA7D" text-anchor="middle" opacity="0.6">og-placeholder.jpg — 1200×630px</text>
+</svg>
